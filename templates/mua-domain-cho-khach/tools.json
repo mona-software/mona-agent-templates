@@ -1,0 +1,58 @@
+{
+  "template": "mua-domain-cho-khach",
+  "runtime": {
+    "name": "openclaw",
+    "license": "MIT",
+    "repo": "https://github.com/openclaw/openclaw",
+    "workspace_files": [
+      "AGENTS.md",
+      "SOUL.md",
+      "IDENTITY.md",
+      "skills/*/SKILL.md"
+    ]
+  },
+  "mcp": {
+    "monacloud-mcp": {
+      "install": "npx -y monacloud-mcp",
+      "docs": "https://monacloud.vn/docs/mcp-va-sdk",
+      "tools": [
+        "cloud_whoami",
+        "cloud_balance",
+        "cloud_prices",
+        "cloud_packages",
+        "cloud_vps_create",
+        "cloud_services",
+        "cloud_job_status",
+        "cloud_topup",
+        "cloud_topup_status",
+        "cloud_domain_search",
+        "cloud_domain_reserve",
+        "cloud_domain_reserve_status",
+        "cloud_domain_buy",
+        "cloud_domain_claim",
+        "cloud_domain_registrant_set",
+        "cloud_domain_verify_start",
+        "cloud_domain_verify_status",
+        "cloud_domain_dns_add",
+        "cloud_domain_dns_list",
+        "cloud_domain_ns_set",
+        "cloud_domain_renew",
+        "cloud_domain_health",
+        "cloud_domain_list",
+        "cloud_domain_webhook_set"
+      ]
+    }
+  },
+  "runtime_apis": [
+    "monacloud-mcp cloud_domain_* (28 tool thật)"
+  ],
+  "env": [
+    "MONACLOUD_TOKEN",
+    "TELEGRAM_BOT_TOKEN"
+  ],
+  "products": [
+    "MONA Domain",
+    "MONA Cloud"
+  ],
+  "note": "Tên tool lấy từ code monacloud-mcp / monapay-mcp ngày 19/09/2026. Tool không có trong danh sách này thì KHÔNG tồn tại, đừng gọi. cloud_agent_deploy hiện là stub (bản thử)."
+}

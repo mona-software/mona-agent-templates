@@ -1,0 +1,10 @@
+sites:
+  - name: web-ban-hang
+    url: https://shop.example.vn/health
+    expect: 200
+    ssl_warn_days: 14
+  - name: api
+    url: https://api.example.vn/ping
+    expect: 200
+notify:
+  telegram_chat_id: "-100xxxxxxxxxx"

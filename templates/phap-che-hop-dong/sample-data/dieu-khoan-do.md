@@ -1,0 +1,5 @@
+- Phạt chậm quá 8% giá trị hợp đồng
+- Thanh toán trước 100%
+- Đơn phương chấm dứt không báo trước
+- Bản quyền sản phẩm thuộc bên B sau khi thanh toán đủ
+- Giải quyết tranh chấp ngoài Việt Nam

@@ -1,0 +1,214 @@
+{
+ "updated": "2026-09-19",
+ "entity": "MONA Agent thuộc nhóm MONA Cloud (The MONA Group)",
+ "templates": [
+  {
+   "slug": "content-seo",
+   "name": "Content SEO có gate",
+   "description": "Viết bài theo giọng thương hiệu, tự soát lỗi văn AI, chờ người duyệt rồi mới đăng.",
+   "products": [
+    "MONA Cloud"
+   ],
+   "tags": [
+    "mona cloud"
+   ],
+   "url": "https://monagent.vn/mau/content-seo",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/content-seo"
+  },
+  {
+   "slug": "cskh-zalo",
+   "name": "CSKH Zalo / Telegram",
+   "description": "Trả lời khách 24/7 từ tài liệu của shop, ca khó chuyển cho người.",
+   "products": [
+    "MONA Cloud",
+    "MONA Mail"
+   ],
+   "tags": [
+    "mona cloud",
+    "mona mail"
+   ],
+   "url": "https://monagent.vn/mau/cskh-zalo",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/cskh-zalo"
+  },
+  {
+   "slug": "don-hang-van-chuyen",
+   "name": "Theo dõi đơn vận chuyển",
+   "description": "Đơn đi tới đâu khách biết tới đó, hoàn hàng và trễ giao có người xử ngay.",
+   "products": [
+    "MONA Mail",
+    "MONA Cloud"
+   ],
+   "tags": [
+    "mona mail",
+    "mona cloud"
+   ],
+   "url": "https://monagent.vn/mau/don-hang-van-chuyen",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/don-hang-van-chuyen"
+  },
+  {
+   "slug": "ke-toan-hddt",
+   "name": "Kế toán hoá đơn",
+   "description": "Tiền vào tài khoản là ghi sổ, nhắc công nợ, chuẩn bị dữ liệu xuất hoá đơn.",
+   "products": [
+    "MONA Pay",
+    "MONA Mail",
+    "MONA eInvoice (API dev chưa mở: phần xuất hoá đơn hiện là chuẩn bị dữ liệu, chưa tự phát hành)"
+   ],
+   "tags": [
+    "mona pay",
+    "mona mail",
+    "mona einvoice (api dev chưa mở: phần xuất hoá đơn hiện là chuẩn bị dữ liệu, chưa tự phát hành)"
+   ],
+   "url": "https://monagent.vn/mau/ke-toan-hddt",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/ke-toan-hddt"
+  },
+  {
+   "slug": "mua-domain-cho-khach",
+   "name": "Mua domain cho khách",
+   "description": "Agency: AI tra tên, giữ chỗ, mua .vn, trỏ DNS, canh hạn gia hạn cho từng khách.",
+   "products": [
+    "MONA Domain",
+    "MONA Cloud"
+   ],
+   "tags": [
+    "mona domain",
+    "mona cloud"
+   ],
+   "url": "https://monagent.vn/mau/mua-domain-cho-khach",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/mua-domain-cho-khach"
+  },
+  {
+   "slug": "nhac-lich-hen",
+   "name": "Nhắc lịch hẹn",
+   "description": "Spa, phòng khám, salon: xác nhận lịch, nhắc trước 24 giờ, đổi lịch qua chat.",
+   "products": [
+    "MONA Mail",
+    "MONA Cloud"
+   ],
+   "tags": [
+    "mona mail",
+    "mona cloud"
+   ],
+   "url": "https://monagent.vn/mau/nhac-lich-hen",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/nhac-lich-hen"
+  },
+  {
+   "slug": "noi-bo-kin",
+   "name": "Trợ lý nội bộ kín",
+   "description": "Đọc tài liệu công ty để trả lời nhân viên, model chạy tại chỗ, không byte nào rời server.",
+   "products": [
+    "MONA Cloud (VPS RAM lớn)",
+    "Ollama"
+   ],
+   "tags": [
+    "mona cloud (vps ram lớn)",
+    "ollama"
+   ],
+   "url": "https://monagent.vn/mau/noi-bo-kin",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/noi-bo-kin"
+  },
+  {
+   "slug": "phap-che-hop-dong",
+   "name": "Soát hợp đồng",
+   "description": "Đọc hợp đồng, chỉ điều khoản bất lợi, soạn theo mẫu công ty, luôn để người quyết.",
+   "products": [
+    "MONA Cloud"
+   ],
+   "tags": [
+    "mona cloud"
+   ],
+   "url": "https://monagent.vn/mau/phap-che-hop-dong",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/phap-che-hop-dong"
+  },
+  {
+   "slug": "quan-tri-so",
+   "name": "Trợ lý quản trị bằng số",
+   "description": "Hỏi công ty mình một câu khó, nhận câu trả lời kèm số lấy từ database thật.",
+   "products": [
+    "MONA Cloud (Postgres theo giờ)"
+   ],
+   "tags": [
+    "mona cloud (postgres theo giờ)"
+   ],
+   "url": "https://monagent.vn/mau/quan-tri-so",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/quan-tri-so"
+  },
+  {
+   "slug": "remarketing-email",
+   "name": "Email theo sự kiện",
+   "description": "Giỏ bỏ dở, lead im lặng, khách cũ lâu không mua: đúng lúc gửi đúng thư qua MONA Mail.",
+   "products": [
+    "MONA Mail",
+    "MONA Cloud"
+   ],
+   "tags": [
+    "mona mail",
+    "mona cloud"
+   ],
+   "url": "https://monagent.vn/mau/remarketing-email",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/remarketing-email"
+  },
+  {
+   "slug": "sales-chot-don",
+   "name": "Sales chốt đơn",
+   "description": "Hỏi nhu cầu, báo giá, tạo QR chuyển khoản MONA Pay, tiền vào là báo chủ.",
+   "products": [
+    "MONA Pay",
+    "MONA Cloud",
+    "MONA Mail"
+   ],
+   "tags": [
+    "mona pay",
+    "mona cloud",
+    "mona mail"
+   ],
+   "url": "https://monagent.vn/mau/sales-chot-don",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/sales-chot-don"
+  },
+  {
+   "slug": "tro-giang-academy",
+   "name": "Trợ giảng lớp online",
+   "description": "Giải đáp bài học, nhắc hạn nộp bài, tổng hợp câu hỏi học viên cho giảng viên.",
+   "products": [
+    "MONA Cloud",
+    "MONA Mail",
+    "mona.academy (MCP https://mcp-elearing.mona.academy/mcp: chạy tools/list để lấy tên tool thật trước khi dùng)"
+   ],
+   "tags": [
+    "mona cloud",
+    "mona mail",
+    "mona.academy (mcp https://mcp-elearing.mona.academy/mcp: chạy tools/list để lấy tên tool thật trước khi dùng)"
+   ],
+   "url": "https://monagent.vn/mau/tro-giang-academy",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/tro-giang-academy"
+  },
+  {
+   "slug": "tuyen-dung",
+   "name": "Trợ lý tuyển dụng",
+   "description": "Đọc CV, chấm theo tiêu chí, hẹn lịch phỏng vấn, trả lời ứng viên 24/7.",
+   "products": [
+    "MONA Mail",
+    "MONA Cloud"
+   ],
+   "tags": [
+    "mona mail",
+    "mona cloud"
+   ],
+   "url": "https://monagent.vn/mau/tuyen-dung",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/tuyen-dung"
+  },
+  {
+   "slug": "webmaster",
+   "name": "Trực website",
+   "description": "Canh website 24/7: sập, lỗi, hết SSL, backup; báo Telegram và tự xử ca đơn giản.",
+   "products": [
+    "MONA Cloud"
+   ],
+   "tags": [
+    "mona cloud"
+   ],
+   "url": "https://monagent.vn/mau/webmaster",
+   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/webmaster"
+  }
+ ]
+}

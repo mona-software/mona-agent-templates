@@ -1,0 +1,50 @@
+{
+  "template": "webmaster",
+  "runtime": {
+    "name": "openclaw",
+    "license": "MIT",
+    "repo": "https://github.com/openclaw/openclaw",
+    "workspace_files": [
+      "AGENTS.md",
+      "SOUL.md",
+      "IDENTITY.md",
+      "skills/*/SKILL.md"
+    ]
+  },
+  "mcp": {
+    "monacloud-mcp": {
+      "install": "npx -y monacloud-mcp",
+      "docs": "https://monacloud.vn/docs/mcp-va-sdk",
+      "tools": [
+        "cloud_whoami",
+        "cloud_balance",
+        "cloud_prices",
+        "cloud_packages",
+        "cloud_vps_create",
+        "cloud_services",
+        "cloud_job_status",
+        "cloud_topup",
+        "cloud_topup_status",
+        "cloud_app_detect",
+        "cloud_app_host_list",
+        "cloud_app_create",
+        "cloud_app_deploy",
+        "cloud_app_env_set",
+        "cloud_app_logs",
+        "cloud_app_domain_add"
+      ]
+    }
+  },
+  "runtime_apis": [
+    "cloud_app_logs / cloud_services qua monacloud-mcp (nếu site chạy MONA Cloud)",
+    "curl + openssl trên VPS"
+  ],
+  "env": [
+    "TELEGRAM_BOT_TOKEN",
+    "MONACLOUD_TOKEN (nếu site trên MONA Cloud)"
+  ],
+  "products": [
+    "MONA Cloud"
+  ],
+  "note": "Tên tool lấy từ code monacloud-mcp / monapay-mcp ngày 19/09/2026. Tool không có trong danh sách này thì KHÔNG tồn tại, đừng gọi. cloud_agent_deploy hiện là stub (bản thử)."
+}

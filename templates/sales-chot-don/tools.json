@@ -1,0 +1,65 @@
+{
+  "template": "sales-chot-don",
+  "runtime": {
+    "name": "openclaw",
+    "license": "MIT",
+    "repo": "https://github.com/openclaw/openclaw",
+    "workspace_files": [
+      "AGENTS.md",
+      "SOUL.md",
+      "IDENTITY.md",
+      "skills/*/SKILL.md"
+    ]
+  },
+  "mcp": {
+    "monacloud-mcp": {
+      "install": "npx -y monacloud-mcp",
+      "docs": "https://monacloud.vn/docs/mcp-va-sdk",
+      "tools": [
+        "cloud_whoami",
+        "cloud_balance",
+        "cloud_prices",
+        "cloud_packages",
+        "cloud_vps_create",
+        "cloud_services",
+        "cloud_job_status",
+        "cloud_topup",
+        "cloud_topup_status"
+      ]
+    },
+    "monapay-mcp": {
+      "install": "npx -y monapay-mcp",
+      "docs": "https://monapay.vn/docs",
+      "tools": [
+        "monapay_quickstart",
+        "monapay_me",
+        "monapay_create_qr",
+        "monapay_get_transaction",
+        "monapay_list_transactions",
+        "monapay_create_webhook",
+        "monapay_test_webhook",
+        "monapay_verify_signature",
+        "monapay_sandbox_transaction",
+        "monapay_create_checkout",
+        "monapay_get_checkout"
+      ]
+    }
+  },
+  "runtime_apis": [
+    "https://api.monapay.vn/api/v1: POST /api/v1/oauth/token, POST /api/v1/acb/qr-payment/generate (VietQR động theo đơn), GET /api/v1/acb/virtual-account/transactions, POST /api/v1/client-webhooks (webhook HMAC báo tiền vào), POST /api/v1/sandbox/transactions (thử), POST /api/v1/checkouts",
+    "https://api.monamail.vn/v1: POST /v1/emails (gửi), POST /v1/templates, GET /v1/emails/{id}, POST /v1/webhooks, GET /v1/inboxes/{id}/messages (hộp thư agent), POST /v1/inboxes/{id}/messages/{mid}/reply"
+  ],
+  "env": [
+    "OPENAI_COMPAT_API_KEY",
+    "TELEGRAM_BOT_TOKEN",
+    "MONAPAY_CLIENT_ID",
+    "MONAPAY_CLIENT_SECRET",
+    "MONAPAY_WEBHOOK_SECRET"
+  ],
+  "products": [
+    "MONA Pay",
+    "MONA Cloud",
+    "MONA Mail"
+  ],
+  "note": "Tên tool lấy từ code monacloud-mcp / monapay-mcp ngày 19/09/2026. Tool không có trong danh sách này thì KHÔNG tồn tại, đừng gọi. cloud_agent_deploy hiện là stub (bản thử)."
+}
