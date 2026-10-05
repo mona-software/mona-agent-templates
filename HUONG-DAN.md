@@ -35,7 +35,7 @@ Anh chị cần mở phần mềm Claude Code hoặc công cụ Codex/Gemini CLI
 
 ## 30 phút dựng
 
-Bước 1: Anh chị mở giao diện dòng lệnh trên máy tính lên. Sau đó, anh chị gõ lệnh `git clone https://github.com/themonagroup/mona-agent-templates` để tải bộ thư mục về máy. Lệnh này giúp chép nguyên bản toàn bộ kho mã nguồn.
+Bước 1: Anh chị mở giao diện dòng lệnh trên máy tính lên. Sau đó, anh chị gõ lệnh `git clone https://github.com/mona-software/mona-agent-templates` để tải bộ thư mục về máy. Lệnh này giúp chép nguyên bản toàn bộ kho mã nguồn.
 
 Bước 2: Khi máy tính tải xong, anh chị tìm đến thư mục template vừa lưu về. Tiếp theo, anh chị khởi động phần mềm Claude Code ngay bên trong không gian thư mục này. Thao tác này giúp AI nhận diện đúng nơi bắt đầu làm việc.
 

@@ -44,4 +44,4 @@ Tụi em muốn nói rõ những thứ trợ lý chưa làm được để anh c
 
 The MONA Group thành lập từ năm 2016, đã thực hiện hơn 14.000 dự án và tự hào có 85% khách hàng quay lại. Nếu anh chị đang sử dụng website hay phần mềm do tụi em xây dựng, anh chị có thể chọn gói Doanh nghiệp để triển khai. Đội ngũ kỹ thuật sẽ gắn thẳng trợ lý AI này vào hạ tầng phần mềm hiện tại của anh chị, dữ liệu liên thông trực tiếp với hệ thống sẵn có. Anh chị cứ gọi số tổng đài 1900 636 648 để tụi em tư vấn chi tiết.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

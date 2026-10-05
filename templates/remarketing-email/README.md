@@ -45,4 +45,4 @@ Nút cài đặt nhanh một bước đang trong giai đoạn thử nghiệm nê
 
 Nếu anh chị đang sử dụng trang web hay phần mềm do tụi em thiết kế, gói Doanh nghiệp cho phép gắn thẳng trợ lý này vào hệ thống cũ để hoạt động luôn. Anh chị cứ gọi lên tổng đài 1900 636 648, ở đây luôn có đội ngũ nhân sự MONA thật trực máy để tụi em cấu hình giúp anh chị. Công ty thành lập từ năm 2016 và đã thực hiện hơn 14.000 dự án với 85% khách hàng quay lại, nên anh chị cứ an tâm giao phần hệ thống kỹ thuật cho tụi em xử lý.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

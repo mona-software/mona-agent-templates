@@ -47,4 +47,4 @@ Sau khi dùng thử trên máy tính cá nhân, anh chị có thể đưa lên m
 
 Nếu trung tâm của anh chị đang sử dụng hệ thống web hoặc phần mềm do MONA xây dựng, tụi em có gói triển khai riêng để nhúng thẳng trợ lý vào hạ tầng anh chị đang thuê. The MONA Group được thành lập từ năm 2016, đã thực thi hơn 14.000 dự án với 85% khách hàng quay lại. Anh chị vui lòng gọi trực tiếp vào tổng đài 1900 636 648 để kỹ thuật viên kết nối cấu hình riêng mà không cần tự mày mò.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

@@ -23,7 +23,7 @@ for d in sorted(p for p in TPL.iterdir() if p.is_dir()):
         if p.is_file(): files[str(p.relative_to(d))] = p.read_text(encoding="utf-8")
     entry = {"slug": d.name, "name": name.split(":")[0].strip(), "description": desc[:300], "products": tools.get("products", []),
              "tags": [t.lower() for t in tools.get("products", [])], "url": f"https://monagent.vn/mau/{d.name}",
-             "source": f"https://github.com/themonagroup/mona-agent-templates/tree/main/templates/{d.name}"}
+             "source": f"https://github.com/mona-software/mona-agent-templates/tree/main/templates/{d.name}"}
     cat.append(entry)
     (TPL / f"{d.name}.json").write_text(json.dumps({**entry, "files": files}, ensure_ascii=False, indent=1), encoding="utf-8")
 (ROOT / "catalog.json").write_text(json.dumps({"updated": "2026-09-19", "entity": "MONA Agent thuộc nhóm MONA Cloud (The MONA Group)", "templates": cat}, ensure_ascii=False, indent=1), encoding="utf-8")

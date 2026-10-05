@@ -42,4 +42,4 @@ Hệ thống nền tảng OpenClaw hiện tại mới chỉ chạy qua kênh Tel
 
 Trường hợp anh chị đang dùng các phần mềm hoặc làm web do chính MONA thiết kế, tụi em có gói Doanh nghiệp hỗ trợ gắn thẳng trợ lý AI này vào hệ thống hiện tại. Việc đồng bộ dữ liệu sẽ diễn ra trực tiếp mà anh chị không cần xuất tệp thủ công. The MONA Group thành lập từ năm 2016, đã làm hơn 14.000 dự án với 85% khách hàng quay lại, luôn có đội ngũ MONA thật đứng sau hỗ trợ. Anh chị cứ gọi số tổng đài 1900 636 648 để tụi em tư vấn cách gắn vào phần mềm nhé.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

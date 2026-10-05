@@ -7,7 +7,7 @@ MONA Agent thuộc **nhóm monacloud**: dùng chung MONA Pass (1 tài khoản), 
 ## Bắt đầu trong 30 phút
 
 ```bash
-git clone https://github.com/themonagroup/mona-agent-templates
+git clone https://github.com/mona-software/mona-agent-templates
 cd mona-agent-templates/templates/cskh-zalo
 claude   # rồi gõ: "Đọc AGENTS.md rồi dựng agent này cho tôi"
 ```
@@ -60,3 +60,5 @@ Gói Doanh nghiệp: MONA gắn trợ lý thẳng vào web, phần mềm, databa
 ## Giấy phép
 
 MIT. Tên tool trong `tools.json` lấy từ mã nguồn `monacloud-mcp` và `monapay-mcp` ngày 19/09/2026. The MONA Group, từ 2016, 14.000+ dự án, 85% khách quay lại.
+
+**MONA Agent thuộc bộ MONA Cloud của The MONA Group.**

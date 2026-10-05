@@ -47,4 +47,4 @@ Hiện tại nền tảng chưa xây dựng xong cầu nối trực tiếp sang 
 
 Nếu anh chị đang sử dụng phần mềm hoặc website do The MONA Group thiết kế (thành lập từ năm 2016, với hơn 14.000 dự án đã thực hiện và 85% khách hàng tiếp tục quay lại), tụi em có sẵn gói Doanh nghiệp. Gói này giúp triển khai gắn thẳng tính năng báo giá và thanh toán vào hệ thống anh chị đang dùng thay vì chạy rời rạc bên ngoài. Anh chị chỉ cần gọi tổng đài 1900 636 648 để kỹ thuật viên tư vấn riêng.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

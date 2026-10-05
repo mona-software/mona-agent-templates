@@ -37,4 +37,4 @@ Khi chạy thử trên máy tính ưng ý, anh chị đưa trợ lý lên máy c
 ## Anh chị đang là khách hàng của MONA?
 Nếu anh chị đang sử dụng hệ thống phần mềm hoặc website do tụi em xây dựng, MONA có gói Doanh nghiệp gắn thẳng trợ lý này vào quy trình hiện tại. Tụi em triển khai trực tiếp trên hạ tầng mà khách hàng đang thuê. Công ty The MONA Group hoạt động từ năm 2016, đã thực hiện hơn 14.000 dự án với 85% khách hàng quay lại. Anh chị gọi tổng đài 1900 636 648 để tụi em tư vấn chi tiết.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

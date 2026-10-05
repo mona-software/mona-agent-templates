@@ -46,4 +46,4 @@ Hiện tại nền tảng mã nguồn mở OpenClaw chưa có cầu nối với 
 
 Nếu anh chị đang sử dụng trang web hoặc phần mềm quản lý do The MONA Group thiết kế, anh chị có thể chuyển sang dùng gói Doanh nghiệp để gắn thẳng mẫu agent này vào hệ thống phần mềm sẵn có. Công ty tụi em thành lập từ năm 2016 với hơn 14.000 dự án đã hoàn thành và 85% khách hàng tiếp tục quay lại, nên đội ngũ kỹ thuật có thừa kinh nghiệm để triển khai agent lên chính hạ tầng mà anh chị đang thuê. Anh chị hãy gọi thẳng vào tổng đài 1900 636 648 để tụi em kiểm tra hệ thống và tư vấn cài đặt trực tiếp.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

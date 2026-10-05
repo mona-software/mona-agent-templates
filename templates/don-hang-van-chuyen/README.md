@@ -46,4 +46,4 @@ Sau khi thử nghiệm và thấy trợ lý vận hành đúng ý trên máy tí
 
 Nếu anh chị đang sử dụng dịch vụ thiết kế trang web hay phần mềm quản lý do The MONA Group thực hiện, tụi em có cung cấp sẵn gói Doanh nghiệp. Đội ngũ kỹ thuật sẽ hỗ trợ gắn thẳng trợ lý AI này vào hệ thống mà anh chị đang vận hành hàng ngày. Để biết thêm thông tin về gói dịch vụ này, anh chị vui lòng gọi trực tiếp đến tổng đài 1900 636 648 để tụi em tư vấn chi tiết hơn.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

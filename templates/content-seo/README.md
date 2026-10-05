@@ -47,4 +47,4 @@ Hiện tại hệ thống OpenClaw chưa có cầu nối trực tiếp với Zal
 
 Nếu anh chị đang sử dụng trang web hoặc phần mềm do The MONA Group xây dựng (công ty hoạt động từ 2016, thực hiện hơn 14.000 dự án, 85% khách hàng quay lại), tụi em có gói Doanh nghiệp triển khai riêng. Gói này giúp gắn thẳng trợ lý vào hệ thống hiện tại của anh chị, hãy gọi ngay đến tổng đài 1900 636 648 để được tư vấn chi tiết.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

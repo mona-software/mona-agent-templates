@@ -34,4 +34,4 @@ Tụi em luôn nói rõ những điểm chưa làm được để anh chị cân
 ## Anh chị đang là khách MONA?
 Nếu anh chị đang dùng phần mềm hoặc trang web do MONA làm (thành lập từ 2016, với hơn 14.000 dự án và 85% khách hàng quay lại), mọi việc còn dễ hơn nữa. Tụi em có gói Doanh nghiệp, bộ phận kỹ thuật sẽ gắn thẳng trợ lý này vào hệ thống anh chị đang dùng. Anh chị hãy gọi tổng đài 1900 636 648 để tụi em báo giá và triển khai.
 
-MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/themonagroup/mona-agent-templates
+MONA Agent thuộc nhóm MONA Cloud (The MONA Group). Kho template: github.com/mona-software/mona-agent-templates

@@ -13,7 +13,7 @@
     "mona cloud"
    ],
    "url": "https://monagent.vn/mau/content-seo",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/content-seo"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/content-seo"
   },
   {
    "slug": "cskh-zalo",
@@ -28,7 +28,7 @@
     "mona mail"
    ],
    "url": "https://monagent.vn/mau/cskh-zalo",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/cskh-zalo"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/cskh-zalo"
   },
   {
    "slug": "don-hang-van-chuyen",
@@ -43,7 +43,7 @@
     "mona cloud"
    ],
    "url": "https://monagent.vn/mau/don-hang-van-chuyen",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/don-hang-van-chuyen"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/don-hang-van-chuyen"
   },
   {
    "slug": "ke-toan-hddt",
@@ -60,7 +60,7 @@
     "mona einvoice (api dev chưa mở: phần xuất hoá đơn hiện là chuẩn bị dữ liệu, chưa tự phát hành)"
    ],
    "url": "https://monagent.vn/mau/ke-toan-hddt",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/ke-toan-hddt"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/ke-toan-hddt"
   },
   {
    "slug": "mua-domain-cho-khach",
@@ -75,7 +75,7 @@
     "mona cloud"
    ],
    "url": "https://monagent.vn/mau/mua-domain-cho-khach",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/mua-domain-cho-khach"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/mua-domain-cho-khach"
   },
   {
    "slug": "nhac-lich-hen",
@@ -90,7 +90,7 @@
     "mona cloud"
    ],
    "url": "https://monagent.vn/mau/nhac-lich-hen",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/nhac-lich-hen"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/nhac-lich-hen"
   },
   {
    "slug": "noi-bo-kin",
@@ -105,7 +105,7 @@
     "ollama"
    ],
    "url": "https://monagent.vn/mau/noi-bo-kin",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/noi-bo-kin"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/noi-bo-kin"
   },
   {
    "slug": "phap-che-hop-dong",
@@ -118,7 +118,7 @@
     "mona cloud"
    ],
    "url": "https://monagent.vn/mau/phap-che-hop-dong",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/phap-che-hop-dong"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/phap-che-hop-dong"
   },
   {
    "slug": "quan-tri-so",
@@ -131,7 +131,7 @@
     "mona cloud (postgres theo giờ)"
    ],
    "url": "https://monagent.vn/mau/quan-tri-so",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/quan-tri-so"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/quan-tri-so"
   },
   {
    "slug": "remarketing-email",
@@ -146,7 +146,7 @@
     "mona cloud"
    ],
    "url": "https://monagent.vn/mau/remarketing-email",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/remarketing-email"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/remarketing-email"
   },
   {
    "slug": "sales-chot-don",
@@ -163,7 +163,7 @@
     "mona mail"
    ],
    "url": "https://monagent.vn/mau/sales-chot-don",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/sales-chot-don"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/sales-chot-don"
   },
   {
    "slug": "tro-giang-academy",
@@ -180,7 +180,7 @@
     "mona.academy (mcp https://mcp-elearing.mona.academy/mcp: chạy tools/list để lấy tên tool thật trước khi dùng)"
    ],
    "url": "https://monagent.vn/mau/tro-giang-academy",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/tro-giang-academy"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/tro-giang-academy"
   },
   {
    "slug": "tuyen-dung",
@@ -195,7 +195,7 @@
     "mona cloud"
    ],
    "url": "https://monagent.vn/mau/tuyen-dung",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/tuyen-dung"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/tuyen-dung"
   },
   {
    "slug": "webmaster",
@@ -208,7 +208,7 @@
     "mona cloud"
    ],
    "url": "https://monagent.vn/mau/webmaster",
-   "source": "https://github.com/themonagroup/mona-agent-templates/tree/main/templates/webmaster"
+   "source": "https://github.com/mona-software/mona-agent-templates/tree/main/templates/webmaster"
   }
  ]
 }
